@@ -50,8 +50,9 @@ footer {
 
     h1 {
         float: left;
-        padding-left: 10rem;
-        font-size: 4rem;
+        padding-left: 8rem;
+        font-size: 3rem;
+        padding-top: 2rem;
     }
 
     nav {
@@ -60,7 +61,12 @@ footer {
 
     nav ul {
         display: flex;
-        
+        margin: auto;
+        margin-left: 550px;
+    }
+
+    nav ul li {
+        padding: 0;
     }
 
     nav ul li a {
