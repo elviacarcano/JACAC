@@ -12,25 +12,30 @@ body {
 h1 {
     font-family: 'Julius Sans One', sans-serif;
     font-weight: lighter;
-    float: left;
+    
 }
 
 h3 {
     font-weight: lighter;
 }
 
-nav ul {
-    display: flex;
+nav {
+    padding-left: 0rem;
 }
+
+nav a {
+    text-decoration: none;
+}
+
 li {
     list-style: none;
 }
 
 article {
-    padding-top: 20px;
+    padding-top: 20rem;
 }
 
 footer {
-    font-size: 10px;
-    padding-top: 30px;
+    font-size: 10rem;
+    padding-top: 30rem;
 }
