@@ -46,7 +46,7 @@ footer {
     padding-top: 3rem;
 }
 
-@media all and (max-width: 768px) and (min-width: 425px) {
+@media (max-width: 768px) and (min-width: 425px) {
 
     h1 {
         float: left;
