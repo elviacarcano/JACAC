@@ -12,7 +12,8 @@ body {
 h1 {
     font-family: 'Julius Sans One', sans-serif;
     font-weight: lighter;
-    
+    padding-top: 3rem;
+    padding-bottom: 1rem;
 }
 
 h3 {
@@ -30,6 +31,7 @@ nav a {
 
 li {
     list-style: none;
+    padding:.5rem;
 }
 
 article {
