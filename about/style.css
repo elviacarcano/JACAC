@@ -68,6 +68,88 @@ footer p {
     color: black;
 }
 
+@media (min-width: 425px)  {
+
+    h1 {
+        font-size: 3rem;
+    }
+
+    h2 {
+        font-size: 1rem;
+    }
+
+    h3 {
+        font-size: .9rem;
+    }
+    ul li {
+        font-size: .8rem;
+    }
+
+    article {
+        width: 100%;
+    }
+}
+
+@media (max-width: 769px) {
+    h1{
+        font-size:3.5rem ;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    h3 {
+      font-size: 1.1rem;  
+    }
+
+    ul li {
+        font-size: 1rem;
+    }
+
+    article {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    h1{
+        font-size:3.5rem ;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    h3 {
+      font-size: 1.1rem;  
+    }
+
+    ul li {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 1024px)  {
+    h1{
+        font-size:3.8rem ;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+    }
+
+    h3 {
+      font-size: 1.3rem;  
+    }
+
+    ul li {
+        font-size: 1.2rem;
+    }
+}
+
+
 
 
 
