@@ -6,7 +6,7 @@ body {
     margin: auto;
     text-align: center;
     font-family: Raleway, sans-serif;
-    width: 70%;
+    
 }
 
 h1 {
@@ -17,21 +17,19 @@ h1 {
     padding-bottom: 1rem;
 }
 
-h2 {
-    font-size: .9rem;
-    font-weight: lighter;
-}
-
 h3 {
     font-weight: lighter;
-    font-size: .7rem;
+    font-size: .9rem;
+    color: white;
 }
+
 p {
     font-size: .8rem;
 }
 
 ul {
     padding-left: 0rem;
+    padding-bottom: 1rem;
 }
 
 nav a {
@@ -46,10 +44,22 @@ li {
 }
 
 article {
-    padding-top: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+article {
+    background-color: black;
+    width: 70%;
+    margin: auto;
 }
 
 footer {
-    font-size: .6rem;
-    padding-top: 70rem;
+    font-size: .7rem;
+    padding-top: 15rem;
 }
+
+
+
+
+
