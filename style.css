@@ -13,4 +13,15 @@ h1 {
     font-weight: lighter;
 }
 
+li {
+    list-style: none;
+}
 
+article {
+    padding-top: 20px;
+}
+
+footer {
+    font-size: 10px;
+    padding-top: 30px;
+}
