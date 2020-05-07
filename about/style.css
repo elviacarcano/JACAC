@@ -68,7 +68,7 @@ footer p {
     color: black;
 }
 
-@media (min-width: 425px)  {
+@media (max-width: 425px)  {
 
     h1 {
         font-size: 3rem;
