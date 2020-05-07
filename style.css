@@ -57,7 +57,7 @@ footer {
     nav {
         padding: 6rem;
     }
-    
+
     nav ul {
         display: flex;
         
@@ -65,5 +65,52 @@ footer {
 
     nav ul li a {
         padding: 1rem;
+    }
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+    h1 {
+        float: left;
+        padding-left: 10rem;
+        font-size: 4rem;
+    }
+
+    nav {
+        padding: 6rem;
+    }
+
+    nav ul {
+        display: flex;
+        
+    }
+
+    nav ul li a {
+        padding: 1rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    h1 {
+        float: left;
+        padding-left: 10rem;
+        font-size: 4rem;
+    }
+
+    nav {
+        padding: 6rem;
+    }
+
+    nav ul {
+        display: flex;
+        
+    }
+
+    nav ul li a {
+        padding: 1rem;
+    }
+    .images {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 2rem;
     }
 }
