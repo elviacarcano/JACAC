@@ -40,11 +40,12 @@ li {
 
 article {
     padding-top: 2rem;
-    padding-bottom: 2rem;;
+    padding-bottom: 2rem;
 }
 
 .images {
     background-color: black;
+    width: 70%;
     margin: auto;
 }
 
