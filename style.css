@@ -73,7 +73,7 @@ footer {
         padding: 1rem;
     }
 }
-
+ /*
 @media (max-width: 1024px) and (min-width: 769px) {
     h1 {
         float: left;
@@ -119,4 +119,4 @@ footer {
         grid-template-columns: auto auto;
         grid-gap: 2rem;
     }
-}
+}/*
