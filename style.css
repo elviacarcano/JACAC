@@ -3,9 +3,12 @@
 }
 
 body {
-    margin: 0;
+    margin: auto;
+    text-align: center;
 }
 
-.images {
-    grid-template: 100% / 100%;
+h1 {
+    font-family: 'Julius Sans One', sans-serif;
 }
+
+
