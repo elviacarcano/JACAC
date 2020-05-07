@@ -25,6 +25,7 @@ h3 {
 
 p {
     font-size: .8rem;
+    color: white;
 }
 
 ul {
@@ -57,6 +58,7 @@ article {
 footer {
     font-size: .7rem;
     padding-top: 15rem;
+    color: black;
 }
 
 
