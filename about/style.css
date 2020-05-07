@@ -17,6 +17,11 @@ h1 {
     padding-bottom: 1rem;
 }
 
+h2 {
+    font-size: 1.1rem;
+    color: white;
+}
+
 h3 {
     font-weight: lighter;
     font-size: .9rem;
@@ -47,9 +52,6 @@ li {
 article {
     padding-top: 2rem;
     padding-bottom: 2rem;
-}
-
-article {
     background-color: black;
     width: 70%;
     margin: auto;
@@ -58,6 +60,10 @@ article {
 footer {
     font-size: .7rem;
     padding-top: 15rem;
+
+}
+
+footer p {
     color: black;
 }
 
